@@ -1,0 +1,76 @@
+{
+  "icons": [
+    {
+      "id": "Avocado", 
+      "value": "Avocado.svg"
+    },
+    {
+      "id": "Bacon", 
+      "value": "Bacon.svg"
+    },
+    {
+      "id": "Bread", 
+      "value": "Bread.svg"
+    },
+    {
+      "id": "Canned", 
+      "value": "Canned.svg"
+    },
+    {
+      "id": "Cheese", 
+      "value": "Cheese.svg"
+    },
+    {
+      "id": "Chocolate", 
+      "value": "Chocolate.svg"
+    },
+    {
+      "id": "CoconutCut", 
+      "value": "CoconutCut.svg"
+    },
+    {
+      "id": "Eggs", 
+      "value": "Eggs.svg"
+    },
+    {
+      "id": "Fruits", 
+      "value": "Fruits.svg"
+    },
+    {
+      "id": "HotDog", 
+      "value": "HotDog.svg"
+    },
+    {
+      "id": "Lemon", 
+      "value": "Lemon.svg"
+    },
+    {
+      "id": "Nut", 
+      "value": "Nut.svg"
+    },
+    {
+      "id": "Orange", 
+      "value": "Orange.svg"
+    },
+    {
+      "id": "Pomegranate", 
+      "value": "Pomegranate.svg"
+    },
+    {
+      "id": "Popcorn", 
+      "value": "Popcorn.svg"
+    },
+    {
+      "id": "RedApple", 
+      "value": "RedApple.svg"
+    },
+    {
+      "id": "Taco", 
+      "value": "Taco.svg"
+    },
+    {
+      "id": "Wine", 
+      "value": "Wine.svg"
+    }
+  ]
+}
